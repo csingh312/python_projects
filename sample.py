@@ -19,3 +19,4 @@ for item in data:
         count += 1
         print count, item.contents[1].text, item.contents[3].text.split('(',1)[0], 'Publisher Weekly'
 
+print 'Finished'
