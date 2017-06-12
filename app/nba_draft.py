@@ -5,6 +5,7 @@ import re
 part = '/year/2016'
 
 
+# WILL ADD MySQL connection object soon
 
 
 def make_soup(url):
