@@ -56,5 +56,5 @@ selenium==3.6.0
 beautifulsoup4==4.6.0
 lxml==3.7.3
 html5lib==0.999
-pandas==0.19.1
-SQLAlchemy==1.1.9
+#pandas==0.19.1
+#SQLAlchemy==1.1.9
